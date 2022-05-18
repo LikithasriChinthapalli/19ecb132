@@ -4,7 +4,7 @@
 [03.C](03.C)
 [1.C](1.C)
 [2.C](2.C)
-[Binary tree.c](Binary tree.c)
+[Binarytree.c](Binarytree.c)
 [amstrng.c](amstrng.c)
 [arrayint.c](arrayint.c)
 [cal.c](cal.c)
