@@ -1,9 +1,9 @@
 # 19ecb132
 
 ## INDEX
-[03.C](03.C)   
-[1.C](1.C)   
-[2.C](2.C)   
+[elementinarray.c](elementinarray.c)    
+[insertion.c](insertion.c)   
+[lettercount.c](lettercount.c)   
 [Binarytree.c](Binarytree.c)   
 [amstrng.c](amstrng.c)   
 [arrayint.c](arrayint.c)   
@@ -11,3 +11,6 @@
 [fabonacci.c](fabonacci.c)   
 [hello.c](hello.c)   
 [sumofintegers.c](sumofintegers.c)   
+[lineardatastructures.c](lineardatastructures.c)   
+[linkedlist.c](linkedlist.c)   
+[singlelinkedlist.c](singlelinkedlist.c)   
