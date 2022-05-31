@@ -16,3 +16,8 @@ printf("armstrong  number ");
 else    
 printf("not armstrong number");      
 }   
+/* output
+  case 1: enter the number=4
+not armstrong number
+  case 2: enter the number=1
+armstrong  number */
