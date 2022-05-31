@@ -16,3 +16,8 @@ int main(){
     printf("%d\n",sum);
     return 0;
 }
+/* output
+1
+1
+1
+0 */

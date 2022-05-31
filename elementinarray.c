@@ -1,4 +1,4 @@
-add,delete,modify an element in an array.c
+
 
 
 #include <stdio.h>
@@ -80,3 +80,15 @@ int main()
     }
     return 0;
 }
+/*output
+Enter size of array 5
+Enter 1 element1
+Enter 2 element2
+Enter 3 element3
+Enter 4 element
+4
+Enter 5 element5
+Enter i to insert/ d to deletei
+Enter element to insert5
+Enter positon4
+1 2 3 5 4 5 */

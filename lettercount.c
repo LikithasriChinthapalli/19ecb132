@@ -16,10 +16,10 @@ int main(void) {
 01. How to work with sentences having a space in between?
 Output:
 Case - 01
-Enter a sentence: suraj
-The number of letters in the given sentence are : 5
+Enter a sentence: likitha
+The number of letters in the given sentence are : 7
 Case - 02  
-Enter a sentence: suraj aravind
-The number of letters in the given sentence are : 5
+Enter a sentence: likitha vu21csen0200140
+The number of letters in the given sentence are : 7
 */  
 

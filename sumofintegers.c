@@ -11,3 +11,6 @@ main()
 
     printf("Sum = %d", sum);
 }
+/* output
+Enter a positive integer: 2
+Sum = 3 */

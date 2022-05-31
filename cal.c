@@ -28,3 +28,8 @@ main()
   }
 
 }
+/* output
+Enter an operator (+, -, *, /): -
+Enter two operands: 5
+6
+5.0 - 6.0 = -1.0*/
