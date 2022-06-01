@@ -10,6 +10,5 @@
 [cal.c](cal.c)    
 [hello.c](hello.c)   
 [sumofintegers.c](sumofintegers.c)   
-[lineardatastructures.c](lineardatastructures.c)   
 [linkedlist.c](linkedlist.c)   
-[singlelinkedlist.c](singlelinkedlist.c)   
+  
