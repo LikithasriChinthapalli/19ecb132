@@ -4,4 +4,4 @@ int main ()
   printf(" hello world");
   printf ("this is likitha");
 }
-//hello worldthis is likitha
+/*hello worldthis is likitha*/
