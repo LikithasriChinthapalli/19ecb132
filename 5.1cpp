@@ -31,3 +31,11 @@ int main()
 	y.putdata();
 	return 0;
 }
+   output:
+   object x
+   number:100
+   cost:299.9
+   
+   object y
+   number:200
+   cost:175.5
